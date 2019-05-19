@@ -3,7 +3,7 @@ def starts_with_a_vowel?(word)
  puts word_test
  if word_test == word
    return true
-
+ end
 end
 
 def words_starting_with_un_and_ending_with_ing(text)
